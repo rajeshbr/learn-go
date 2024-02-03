@@ -8,6 +8,7 @@ func main() {
 
 	myMap["dog"] = "Samson"
 	myMap["cat"] = "Cassie"
+	myMap["hamster"] = "Derrik"
 
 	log.Println(myMap)
 
